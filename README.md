@@ -1,6 +1,7 @@
 # Getting And Cleaning Data Project
 
-This repository contains the files required for the Getting And Cleaning Data Project assignment
+This repository contains the files required for the Getting And Cleaning Data Project assignment.
+
 The "Getting And Cleaning Data" course (getdata-010) is provided by Johns Hopkins University
 and hosted on Coursera 
 
@@ -34,6 +35,10 @@ Repository: https://github.com/AmbroCzz/GettingAndCleaningDataProject
 * CodeBook.md    - a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data 
 * run_analysis.R - The R script to execute the assignment
 
+
+## Functions in run_analysis.R
+
+run_analysis()
 
 
 
