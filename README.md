@@ -28,7 +28,7 @@ The goal is to prepare tidy data that can be used for later analysis
 
 Repository: https://github.com/AmbroCzz/GettingAndCleaningDataProject
 
-## Repositoy content
+## Repository content
 
 * README.md      - This file
 * CodeBook.md    - a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data 
